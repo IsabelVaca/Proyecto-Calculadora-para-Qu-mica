@@ -1,4 +1,4 @@
-# Proyecto-Calculadora-para-Qu-mica
+# Proyecto-Calculadora-para-Quimica
 
 Para mi proyecto de la materia decidí hacer una calculadora para calcular conceptos de Química, como por ejemplo: 
 -Calcular la masa molar de una sustancia
